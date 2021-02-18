@@ -13,7 +13,6 @@ body {
     color: #333;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    /* above 2 lines makes subtle changes to make it look better and cleanre */
 }
 
 h1, h2, h3 ,h4, h5, h6 {
@@ -25,7 +24,6 @@ h1, h2, h3 ,h4, h5, h6 {
 #container {
     width: 600px;
     margin: 0 auto;
-    /* auto hits both L&R */
 }
 
 .content-block {
